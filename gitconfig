@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ldms99@hotmail.com
+	name = Daniel Santillan
